@@ -9,14 +9,14 @@
 
 # Twitter API credentials. If you need any help have a look at README.md
 twitter_credentials = {
-    "consumer_key": '',
-    "consumer_secret": '',
-    "access_token": '',
-    "access_secret": '',
+    "consumer_key": 'SBYUvwcJPffNXH1H5oAg7hoth',
+    "consumer_secret": '7Ij8VfNXYhMrYaFUyuu4obbpOLQNaRPBRCCVem7EP7ocjzlsyf',
+    "access_token": '1285137870961819648-p834WVYdrfdrmdLGQ6XijfEcN2HCU1',
+    "access_secret": 'PFnDVMNN0LoLgDEv0n86VOEckWZsTviCQKet91yu8xcY4',
 }
 # DON'T WRITE ANYTHING IN CAPS, AS THE BOT AUTOMATICALLY FLATTERS ALL INPUT TEXTS. THUS ANY WORD WITH CAPS WON'T BE RECOGNIZED
 # Tags that Twitter will use to look up our tweets. Really important as all the script will be based on them
-search_tags = ["giveaway", "contest", "sorteo", "to win"]
+search_tags = ["giveaway", "airdrop", "nft giveaway", "token giveaway"]
 # Don't start the bot if friends weren't correctly retrieved
 wait_retrieve = False
 # Enable this if you want the bot to send a DM in case it detects any message_tags
@@ -36,7 +36,7 @@ follow_tags = ["follow", "fl", "sigue", "seguir", "siguenos"]
 # What words will the bot look for in order to like a tweet (it also needs to contain a retweet tag)
 like_tags = ["like", "fav", "favorite"]
 # These are supposed to be random msgs the bot would send if DMing is required
-message_text = ["I want to enter to the giveaway!", "Hope to win :D"]
+message_text = ["I hope I'll win this giveaway!", "(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)"]
 # Add to this list all the users whose contests (actually tweets that contain retweet_tags keywords) the script will
 # always skip (this is for the user's username, not name!) (username is the @ one)
 # Variables related to avoiding users don't need to have a value
