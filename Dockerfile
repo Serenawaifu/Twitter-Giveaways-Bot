@@ -1,3 +1,4 @@
+
 # Use the official Python image as the base image
 FROM python:latest
 
@@ -17,4 +18,4 @@ COPY . /app/
 EXPOSE 443
 
 # Specify the command to run when the container starts
-CMD [ "python", "app.py" ]
+CMD ["python", "app.py"]
