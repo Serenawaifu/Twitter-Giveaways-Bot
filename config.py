@@ -9,10 +9,10 @@
 
 # Twitter API credentials. If you need any help have a look at README.md
 twitter_credentials = {
-    "consumer_key": 'SBYUvwcJPffNXH1H5oAg7hoth',
-    "consumer_secret": '7Ij8VfNXYhMrYaFUyuu4obbpOLQNaRPBRCCVem7EP7ocjzlsyf',
-    "access_token": '1285137870961819648-p834WVYdrfdrmdLGQ6XijfEcN2HCU1',
-    "access_secret": 'PFnDVMNN0LoLgDEv0n86VOEckWZsTviCQKet91yu8xcY4',
+    "consumer_key": '',
+    "consumer_secret": '',
+    "access_token": '',
+    "access_secret": '',
 }
 # DON'T WRITE ANYTHING IN CAPS, AS THE BOT AUTOMATICALLY FLATTERS ALL INPUT TEXTS. THUS ANY WORD WITH CAPS WON'T BE RECOGNIZED
 # Tags that Twitter will use to look up our tweets. Really important as all the script will be based on them
